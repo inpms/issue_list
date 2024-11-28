@@ -1,6 +1,10 @@
 
 #### 1、卡券列表接口 o2o-common-webAndroid/android/selectMyCouponList.do
 
+{"token": "b7260fef-dfc5-4f6f-be8e-69d9e3d4e9f8", "type": 0, "pageSize": 100, "pageNo": 1, "versionNum": 1, "version": "2"}
+
+
+
   需增加两个字段：
   
        () month: '2024-11' --账单月份
